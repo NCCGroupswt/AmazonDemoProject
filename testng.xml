@@ -1,0 +1,28 @@
+<suite name="Test Suite">
+	<test name="Test_Navigation_Bar_View_Links_Firefox">
+		<classes>
+			<class name="automationTestCases.Test_Navigation_Bar_View_Links_Firefox" />
+		</classes>
+	</test>
+	<test name="Test_Navigation_Bar_View_Links_IE">
+		<classes>
+			<class name="automationTestCases.Test_Navigation_Bar_View_Links_IE" />
+		</classes>
+	</test>
+	<test name="Test_Results_Page_Check_Layout_Firefox">
+		<classes>
+			<class name="automationTestCases.Test_Results_Page_Check_Layout_Firefox" />
+		</classes>
+	</test>
+	<test name="Test_Results_Page_Check_Layout_IE">
+		<classes>
+			<class name="automationTestCases.Test_Results_Page_Check_Layout_IE" />
+		</classes>
+	</test>
+		<test name="Test_Select_First_Item_Firefox">
+		<classes>
+			<class name="automationTestCases.Test_Select_First_Item_Firefox" />
+		</classes>
+	</test>
+		
+</suite>
